@@ -1,0 +1,7 @@
+nombre = input ("Teclea tu Nombre ")
+pais = input("Teclea tu pais ")
+ciudad = input("Teclea tu ciudad ")
+print ("Informacion Biografica")
+print ("Nombre " + nombre)
+print ("Pais : " + pais)
+print ("Ciudad :" + ciudad )
